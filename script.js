@@ -1,38 +1,38 @@
-
 const perguntas = [
     {
-    enunciado: " Qual o seu hobby favorito: [
-    "Nadar ",
-    "Ir a academia"
+    enunciado: "Assim que saiu da escola você se depara com uma nova oportunidade de trabalho. Qual o primeiro pensamento?",
+    alternativas: [
+    "Isso é assustador!",
+    "Isso é maravilhoso!"
     ]
     },
     {
-    enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+    enunciado: "Com essa oprtunidade você pode pagar sua faculdade dos sonhos. Qual atitude você toma?",
     alternativas: [
-    "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-    "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema."
+    "Entro no trabalho e faço faculdade.",
+    "Fico em casa fazendo nada."
     ]
     },
     {
-    enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+    enunciado: "Após a decisão vc conta a seus pais, como eles se posicionam?",
     alternativas: [
-    "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-    "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores."
+    "Amam a ideia e apoiam.",
+    "Não gostam e brigam com você."
     ]
     },
     {
-    enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+    enunciado: "Ao final da discussão você deve se organizar. E agora?",
     alternativas: [
-    "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-    "Criar uma imagem utilizando um gerador de imagem de IA."
+    "Vai dormir.",
+    "Arruma tudo pois vai começar amanhã."
     ]
     
     },
     {
-    enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+    enunciado: "Você tem uma grande responsábilidade ou vai ser um zé ruela. O que você faz?",
     alternativas: [
-    "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-    "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
+    "Tomo vergonha na cara e sigo meus objetivos.",
+    "Vou ser um bosta."
     ]
     }
     ];
